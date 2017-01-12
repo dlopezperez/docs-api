@@ -1,6 +1,6 @@
 # SmartMessaging API
 
-## Table of Contents
+## Table of Contents   
 1. [Overview](#overview)
 2. [API - Resources](#API)
 	4. [/messaging/v1/sms/](#/messaging/v1/sms/)
